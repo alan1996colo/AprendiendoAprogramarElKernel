@@ -36,7 +36,7 @@ Despues de este ultimo comando, deberia aparecer en la ubicacion var/log/syslog 
 Lo que hemos escrito adicionalmente con la cantidad de letras de la palabra y en la ultima linea la palabra 
 escrita desde atras hacia delante. El 90% del codigo y como funciona, se encuentra en el libro.
 
-Por ultimo ejecute el comando sudo rmmod impchar
+Por ultimo ejecute el comando ```sudo rmmod impchar```
 Y eso es todo por el momento.
 
 
